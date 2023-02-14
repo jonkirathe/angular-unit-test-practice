@@ -1,0 +1,204 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Kim",
+      "lastName": "Weimann",
+      "email": "Kim.Weimann@dummyapis.com",
+      "contactNumber": "4341291466",
+      "age": 64,
+      "dob": "30/08/1958",
+      "address": "Address1 DDD"
+    },
+    {
+      "id": 2,
+      "firstName": "Ella",
+      "lastName": "Ferry",
+      "email": "Ella.Ferry@dummyapis.com",
+      "contactNumber": "4023594971",
+      "age": 71,
+      "dob": "27/04/1951",
+      "address": "Address2"
+    },
+    {
+      "id": 3,
+      "firstName": "Salvatore",
+      "lastName": "Bradtke",
+      "email": "Salvatore.Bradtke@dummyapis.com",
+      "contactNumber": "4758694214",
+      "age": 24,
+      "dob": "30/10/1998",
+      "address": "Address3"
+    },
+    {
+      "id": 4,
+      "firstName": "Alessandro",
+      "lastName": "Lockman",
+      "email": "Alessandro.Lockman@dummyapis.com",
+      "contactNumber": "4767899779",
+      "age": 79,
+      "dob": "09/11/1943",
+      "address": "Address4"
+    },
+    {
+      "id": 5,
+      "firstName": "Jarrett",
+      "lastName": "Champlin",
+      "email": "Jarrett.Champlin@dummyapis.com",
+      "contactNumber": "4395198179",
+      "age": 67,
+      "dob": "31/08/1955",
+      "address": "Address5"
+    },
+    {
+      "id": 6,
+      "firstName": "Hillary",
+      "lastName": "Gaylord",
+      "email": "Hillary.Gaylord@dummyapis.com",
+      "contactNumber": "4868097320",
+      "age": 43,
+      "dob": "12/09/1979",
+      "address": "Address6"
+    },
+    {
+      "id": 7,
+      "firstName": "Ruth",
+      "lastName": "Mayert",
+      "email": "Ruth.Mayert@dummyapis.com",
+      "contactNumber": "4363796185",
+      "age": 77,
+      "dob": "03/05/1945",
+      "address": "Address7"
+    },
+    {
+      "id": 8,
+      "firstName": "Amber",
+      "lastName": "Goldner",
+      "email": "Amber.Goldner@dummyapis.com",
+      "contactNumber": "4469694068",
+      "age": 53,
+      "dob": "01/02/1969",
+      "address": "Address8"
+    },
+    {
+      "id": 9,
+      "firstName": "Avis",
+      "lastName": "Wehner",
+      "email": "Avis.Wehner@dummyapis.com",
+      "contactNumber": "4052293360",
+      "age": 70,
+      "dob": "18/06/1952",
+      "address": "Address9"
+    },
+    {
+      "id": 10,
+      "firstName": "Delia",
+      "lastName": "Spencer",
+      "email": "Delia.Spencer@dummyapis.com",
+      "contactNumber": "4353291635",
+      "age": 31,
+      "dob": "19/10/1991",
+      "address": "Address10"
+    },
+    {
+      "id": 11,
+      "firstName": "Garth",
+      "lastName": "Hammes",
+      "email": "Garth.Hammes@dummyapis.com",
+      "contactNumber": "4082598873",
+      "age": 60,
+      "dob": "13/04/1962",
+      "address": "Address11"
+    },
+    {
+      "id": 12,
+      "firstName": "Hilda",
+      "lastName": "McKenzie",
+      "email": "Hilda.McKenzie@dummyapis.com",
+      "contactNumber": "4063499644",
+      "age": 22,
+      "dob": "06/04/2000",
+      "address": "Address12"
+    },
+    {
+      "id": 13,
+      "firstName": "Viva",
+      "lastName": "Jast",
+      "email": "Viva.Jast@dummyapis.com",
+      "contactNumber": "4553697484",
+      "age": 50,
+      "dob": "09/03/1972",
+      "address": "Address13"
+    },
+    {
+      "id": 14,
+      "firstName": "Malinda",
+      "lastName": "Cruickshank",
+      "email": "Malinda.Cruickshank@dummyapis.com",
+      "contactNumber": "4265693689",
+      "age": 80,
+      "dob": "18/02/1942",
+      "address": "Address14"
+    },
+    {
+      "id": 15,
+      "firstName": "Micheal",
+      "lastName": "Ratke",
+      "email": "Micheal.Ratke@dummyapis.com",
+      "contactNumber": "4619893711",
+      "age": 71,
+      "dob": "14/10/1951",
+      "address": "Address15"
+    },
+    {
+      "id": 16,
+      "firstName": "Finn",
+      "lastName": "Rolfson",
+      "email": "Finn.Rolfson@dummyapis.com",
+      "contactNumber": "4696795333",
+      "age": 24,
+      "dob": "26/10/1998",
+      "address": "Address16"
+    },
+    {
+      "id": 17,
+      "firstName": "Evalyn",
+      "lastName": "White",
+      "email": "Evalyn.White@dummyapis.com",
+      "contactNumber": "4516990130",
+      "age": 89,
+      "dob": "31/10/1933",
+      "address": "Address17"
+    },
+    {
+      "id": 18,
+      "firstName": "Winifred",
+      "lastName": "Walsh",
+      "email": "Winifred.Walsh@dummyapis.com",
+      "contactNumber": "4600495635",
+      "age": 44,
+      "dob": "14/01/1978",
+      "address": "Address18"
+    },
+    {
+      "id": 19,
+      "firstName": "Celia",
+      "lastName": "Lang",
+      "email": "Celia.Lang@dummyapis.com",
+      "contactNumber": "4869198234",
+      "age": 63,
+      "dob": "16/11/1959",
+      "address": "Address19"
+    },
+    {
+      "id": 20,
+      "firstName": "Jameson",
+      "lastName": "Ondricka",
+      "email": "Jameson.Ondricka@dummyapis.com",
+      "contactNumber": "4937893193",
+      "age": 50,
+      "dob": "12/09/1972",
+      "address": "Address20"
+    }
+  ]
+}
